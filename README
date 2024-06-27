@@ -1,0 +1,6 @@
+the admin credential are:
+name: admin
+password: admin@2024
+
+for the user you will have to signup and then use those credentials 
+because in the library.sql there is no data for the user
